@@ -856,6 +856,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2)                        | Read and write Tumblr Data                                                                        | `OAuth`  | Yes   | Unknown |
 | [Twitch](https://dev.twitch.tv/docs)                                   | Game Streaming API                                                                                | `OAuth`  | Yes   | Unknown |
 | [Twitter](https://developer.twitter.com/en/docs)                       | Read and write Twitter data                                                                       | `OAuth`  | Yes   | No      |
+| [Xquik](https://xquik.com)                                             | X (Twitter) data API with 122 endpoints — search, user lookup, post, monitor, extract              | `apiKey` | Yes   | Yes     |
 | [vk](https://vk.com/dev/sites)                                         | Read and write vk data                                                                            | `OAuth`  | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)**
