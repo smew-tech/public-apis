@@ -744,7 +744,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/)            | REST API for more than 5000 famous quotes                              | No       | Yes   | Unknown |
 | [Quotes on Design](https://quotesondesign.com/api/)                       | Inspirational Quotes                                                   | No       | Yes   | Unknown |
 | [Traitify](https://app.traitify.com/developer)                            | Assess, collect and analyze Personality                                | No       | Yes   | Unknown |
-| [PsyQuiz API](https://countrycode.xyz/api/frameworks)                            | Free psychological assessment API (Big 5, Attachment, CBT, Flow, EQ, etc.) | No       | Yes   | Yes     |
+| [PsyQuiz API](https://psy.oneroad.com/api/frameworks)                            | Free psychological assessment API (Big 5, Attachment, CBT, Flow, EQ, etc.) | No       | Yes   | Yes     |
 | [tronalddump.io](https://www.tronalddump.io)                              | Api & web archive for the things Donald Trump has said                 | No       | Yes   | Unknown |
 
 **[⬆ Back to Index](#index)**
