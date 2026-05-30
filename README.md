@@ -577,6 +577,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [Flutrack](http://www.flutrack.org/)                       | Influenza-like symptoms with geotracking                                                     | No       | No    | Unknown |
 | [Healthcare.gov](https://www.healthcare.gov/developers/)   | Educational content about the US Health Insurance Marketplace                                | No       | Yes   | Unknown |
 | [Lexigram](https://docs.lexigram.io/v1/welcome)            | NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology | `apiKey` | Yes   | Unknown |
+| [Longevity World Cup](https://longevityworldcup.com/api/data/athletes) | Biological-age rankings and athlete profiles                                      | No       | Yes   | Yes     |
 | [Makeup](http://makeup-api.herokuapp.com/)                 | Makeup Information                                                                           | No       | No    | Unknown |
 | [Medicare](https://data.medicare.gov/developers)           | Access to the data from the CMS - medicare.gov                                               | No       | Yes   | Unknown |
 | [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api) | National Plan & Provider Enumeration System, info on healthcare providers registered in US   | No       | Yes   | Unknown |
