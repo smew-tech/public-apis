@@ -379,6 +379,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [Alpha Vantage](https://www.alphavantage.co/)                                                    | Realtime and historical stock data                                            | `apiKey` | Yes   | Unknown |
 | [Barchart OnDemand](https://www.barchartondemand.com/free)                                       | Stock, Futures and Forex Market Data                                          | `apiKey` | Yes   | Unknown |
 | [Consumer Financial Protection Bureau](https://data.consumerfinance.gov/resource/jhzv-w97w.json) | Financial services consumer complaint data                                    | `apiKey` | Yes   | Unknown |
+| [Eulerpool](https://eulerpool.com/developers)                                                    | Global stock, ETF, macro, crypto and FX data with fundamentals and history    | `apiKey` | Yes   | Yes     |
 | [Financial Modeling Prep](https://financialmodelingprep.com/)                                    | Stock information and data                                                    | No       | Yes   | Unknown |
 | [IEX](https://iextrading.com/developer/)                                                         | Realtime stock data                                                           | `apiKey` | Yes   | Yes     |
 | [IEX Cloud](https://iexcloud.io/)                                                                | Realtime & Historical Stock and Market Data                                   | `apiKey` | Yes   | Yes     |
