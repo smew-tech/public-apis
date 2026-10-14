@@ -386,6 +386,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [Plaid](https://plaid.com/)                                                                      | Connect with users’ bank accounts and access transaction data                 | `apiKey` | Yes   | Unknown |
 | [Razorpay IFSC](https://ifsc.razorpay.com/)                                                      | Indian Financial Systems Code (Bank Branch Codes)                             | No       | Yes   | Unknown |
 | [Repetiti](https://developers.repetiti.com/)                                                     | Repetiti 3d Printer Management Service, access and control 3d Printers easily | `apiKey` | Yes   | Yes     |
+| [roic.ai](https://www.roic.ai/)                                                                  | Fundamentals, financial ratios and earnings call transcripts for 68k+ companies | `apiKey` | Yes   | Unknown |
 | [RoutingNumbers.info](https://www.routingnumbers.info/api/index.html)                            | ACH/NACHA Bank Routing Numbers                                                | No       | Yes   | Unknown |
 | [Tradier](https://developer.tradier.com)                                                         | US equity/option market data (delayed, intraday, historical)                  | `OAuth`  | Yes   | Yes     |
 | [VAT Rates](https://jsonvat.com/)                                                                | A collection of all VAT rates for EU countries                                | No       | Yes   | Unknown |
