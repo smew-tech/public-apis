@@ -101,6 +101,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [Behance](https://www.behance.net/dev)                               | Design                    | `apiKey` | Yes   | Unknown |
 | [Cooper Hewitt](https://collection.cooperhewitt.org/api)             | Smithsonian Design Museum | `apiKey` | Yes   | Unknown |
 | [Dribbble](http://developer.dribbble.com/v2/)                        | Design                    | `OAuth`  | No    | Unknown |
+| [Favicondl](https://favicondl.com/documentation.html)                 | Get any website's favicon by URL (SVG/PNG/ICO), with JSON metadata and fallbacks | No       | Yes   | Yes     |
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art                       | `apiKey` | No    | Unknown |
 | [Iconfinder](https://developer.iconfinder.com)                       | Icons                     | `apiKey` | Yes   | Unknown |
 | [Icons8](http://docs.icons8.apiary.io/#reference/0/meta)             | Icons                     | `OAuth`  | Yes   | Unknown |
