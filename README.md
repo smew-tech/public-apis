@@ -731,6 +731,7 @@ Please note a passing build status indicates all listed APIs are available since
 | API                                                                       | Description                                                            | Auth     | HTTPS | CORS    |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------- | ----- | ------- |
 | [Advice Slip](http://api.adviceslip.com/)                                 | Generate random advice slips                                           | No       | Yes   | Unknown |
+| [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Daily travel and life-experience idea in Dutch | No | Yes | Yes |
 | [chucknorris.io](https://api.chucknorris.io)                              | JSON API for hand curated Chuck Norris jokes                           | No       | Yes   | Unknown |
 | [FavQs.com](https://favqs.com/api)                                        | FavQs allows you to collect, discover and share your favorite quotes   | `apiKey` | Yes   | Unknown |
 | [FOAAS](http://www.foaas.com/)                                            | Fuck Off As A Service                                                  | No       | No    | Unknown |
