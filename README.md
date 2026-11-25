@@ -889,6 +889,7 @@ Please note a passing build status indicates all listed APIs are available since
 | [Pro Motocross](http://promotocrossapi.com)                                  | The RESTful AMA Pro Motocross lap times for every racer on the start gate                   | No              | No    | Unknown |
 | [Strava](https://strava.github.io/api/)                                      | Connect with athletes, activities and more                                                  | `OAuth`         | Yes   | Unknown |
 | [SuredBits](https://suredbits.com/api/)                                      | Query sports data, including teams, players, games, scores and statistics                   | No              | No    | No      |
+| [Tennis Scores API (Public Records)](https://apify.com/publicrecords/tennis-scores-api)                           | ATP and WTA match scores, results and rankings                                                 | `apiKey`        | Yes   | Unknown |
 | [TheSportsDB](https://www.thesportsdb.com/api.php)                           | Crowd-Sourced Sports Data and Artwork                                                       | `apiKey`        | Yes   | Yes     |
 | [Wger](https://wger.de/en/software/api)                                      | Workout manager data as exercises, muscles or equipment                                     | `apiKey`        | Yes   | Unknown |
 
